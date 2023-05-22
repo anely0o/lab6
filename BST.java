@@ -104,3 +104,6 @@ public class BST<K extends Comparable<K>, V> {
         }
     }
 }
+//вернуть высоту binary search tree
+
+
